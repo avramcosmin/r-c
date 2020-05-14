@@ -20,6 +20,8 @@ Unit testing...work in progress.
   npm run start
 ```
 
+Once the server started go to [http://localhost:4200](http://localhost:4200).
+
 ## Testing the library
 
 Test coverage 100%.
@@ -35,8 +37,6 @@ Test coverage 5%.
 ```
   npm run test-app
 ```
-
-Once the server started go to [http://localhost:4200](http://localhost:4200).
 
 ## Workflow, design & missing features
 
