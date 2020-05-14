@@ -6,6 +6,9 @@ An easy, enjoyable journey around the world.
 
 Unit testing...work in progress.
 
+- Library - created test file for pipe (2 tests).
+- Library - created test file for component (5 tests).
+
 ## Video walk-around
 
 [Workflow, design & missing features - VIDEO](https://youtu.be/YvPZfkTcZnE)
@@ -15,6 +18,22 @@ Unit testing...work in progress.
 ```
   npm install
   npm run start
+```
+
+## Testing the library
+
+Test coverage 100%.
+
+```
+  npm run test-lib
+```
+
+## Testing the app
+
+Test coverage 5%.
+
+```
+  npm run test-app
 ```
 
 Once the server started go to [http://localhost:4200](http://localhost:4200).
