@@ -6,6 +6,10 @@ An easy, enjoyable journey around the world.
 
 Unit testing...work in progress.
 
+## Video walk-around
+
+[Workflow, design & missing features - VIDEO](https://youtu.be/YvPZfkTcZnE)
+
 ## Installation
 
 ```
